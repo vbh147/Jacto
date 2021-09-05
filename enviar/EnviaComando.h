@@ -1,0 +1,4 @@
+#ifndef ENVIACOMANDO_H
+#define ENVIACOMANDO_H
+
+#endif // ENVIACOMANDO_H
